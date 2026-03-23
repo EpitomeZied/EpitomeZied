@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎓 Student Backend Developer  
 - ⚙️ I build scalable backend systems & clean APIs  
-- 🌱 Learning: **Node.js**, **Express**, **PostgreSQL**, **System Design**  
+- 🌱 Learning: **Node.js**, **Express**, **PostgreSQL**, **System Design** , **TypeScript**
 - 🏆 **Codeforces Expert** | **LeetCode Guardian**  
 - 💡 Interested in building scalable and efficient applications
 - 📫 Reach me at: **mahmoudkailad4444@gmail.com**
