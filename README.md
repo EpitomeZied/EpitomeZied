@@ -13,6 +13,7 @@
 - 🌱 Learning: **Node.js**, **Express**, **PostgreSQL**, **System Design** , **TypeScript**
 - 🏆 **Codeforces Expert** | **LeetCode Guardian**  
 - 💡 Interested in building scalable and efficient applications
+- 🌐 Portfolio: **[epitomezied.fly.dev/#0x00](https://epitomezied.fly.dev/#0x00)**
 - 📫 Reach me at: **mahmoudkailad4444@gmail.com**
 
 ---
@@ -20,6 +21,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
+  <a href="https://epitomezied.fly.dev/#0x00" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mahmoud-abo-zied-5623282a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/abozied_jr" target="_blank"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://leetcode.com/u/EpitomeZied/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
